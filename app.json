@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tutorial",
-    "slug": "tutorial",
+    "name": "infra-did-tutorial",
+    "slug": "infra-did-tutorial",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
